@@ -1,5 +1,3 @@
-# DSC 180A Methodology Assignment 4
-
 **Name:** Xiao Cheng
 **Email:** xic096@ucsd.edu
 
